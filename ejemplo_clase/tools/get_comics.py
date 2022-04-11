@@ -16,8 +16,8 @@ json_examples_dir = 'tools/api_json_examples/'
 
 
 # Obtenemos los datos de la pagina de apis de marvel: https://developer.marvel.com/ 
-public_key = '58ee40376f7c10e99f440f5e3abd2caa'
-private_key = '2c0373e00d85edb4560f68ddc2094014e8694f90'
+public_key = 'ff1fdad261069f0389a53be4bd2d46af'
+private_key = 'dc44e144ff2bec70d21fc181f1c1447778f339e3'
 ts = 1
 # Obtenemos el "hash":
 to_hash = str(ts)+private_key+public_key
